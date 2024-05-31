@@ -1,5 +1,6 @@
-## Hi, I am Python Backend Developer.
-My stack:
+## Hi there 👋.
+I'm a Backend Python Developer.
+My tech stack:
 * Python 3
 * Fast API
 * SQLAlchemy
