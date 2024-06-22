@@ -12,4 +12,4 @@
 ![Pydentic](https://img.shields.io/badge/Pydentic-E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Celery](https://img.shields.io/badge/Celeey-003B57.svg?style=for-the-badge&logo=Celery&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-003B57.svg?style=for-the-badge&logo=Celery&logoColor=white)
