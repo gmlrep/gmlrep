@@ -12,6 +12,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasicsearch-20d9c1.svg?style=flat&logo=elasticsearch&logoColor=white)
 ![Pydentic](https://img.shields.io/badge/Pydentic-E92063.svg?style=flat&logo=pydantic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat&logo=Celery&logoColor=white)
