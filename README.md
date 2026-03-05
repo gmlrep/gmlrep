@@ -19,3 +19,4 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat&logo=pytest&logoColor=white)
 ![Aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4.svg?style=flat&logo=aiohttp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/RabbitMQ-F05032.svg?style=flat&logo=rabbitmq&logoColor=white)
