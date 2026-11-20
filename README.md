@@ -4,7 +4,7 @@
 
 <h4 align="center">Programming Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,js,arduino" />
+  <img src="https://skillicons.dev/icons?i=py,go,js,vue,arduino" />
 </p>
 
 <h4 align="center">Databases</h4>
