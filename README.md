@@ -4,15 +4,15 @@
 
 <h4 align="center">Programming Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,js,vue,arduino" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,go,js,vue,arduino&perline=8&radius=40" />
 </p>
 
 <h4 align="center">Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,elasticsearch,mongodb" />
+  <img src="https://skills.syvixor.com/api/icons?i=postgresql,mysql,sqlite,redis,elasticsearch,mongodb,qdrant&perline=8&radius=40" />
 </p>
 
 <h4 align="center">Infrastructure & Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,rabbitmq,git,postman,firebase,nginx,github,gitlab" />
+    <img src="https://skills.syvixor.com/api/icons?i=docker,rabbitmq,celery,langchain,git,postman,firebase,nginx,caddy,github,gitlab,&perline=8&radius=40" />
 </p>
